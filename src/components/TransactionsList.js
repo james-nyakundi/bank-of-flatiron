@@ -6,7 +6,7 @@ function TransactionsList() {
   const [transactions,setTransctions] = useState([])
   useEffect(()=>{
     
-  fetch('http://localhost:8001/transactions')
+  fetch('https://bank-of-flatiron-3-f4j5.onrender.com/transactions')
   .then(response => response.json())
   .then(data => {
     setTransctions(data)
