@@ -85,312 +85,39 @@
       "amount": -975
     },
     {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
       "id": 13
     },
     {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
+      "date": "2024-05-08",
+      "description": "paycheck",
+      "category": "STRENGTH",
+      "amount": "0.09",
       "id": 14
     },
     {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
+      "date": "2024-05-03",
+      "description": "paycheck",
+      "category": "STRENGTH",
+      "amount": "0.08",
       "id": 15
     },
     {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
       "id": 16
     },
     {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
+      "date": "2024-05-02",
+      "description": "paycheck",
+      "category": "income",
+      "amount": "0.09",
       "id": 17
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 18
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 19
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 20
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 21
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 22
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 23
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 24
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 25
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 26
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 27
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 28
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 29
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 30
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 31
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 32
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 33
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 34
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 35
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 36
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 37
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 38
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 39
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 40
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 41
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 42
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 43
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 44
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 45
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 46
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 47
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 48
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 49
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 50
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 51
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 52
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 53
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 54
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 55
-    },
-    {
-      "date": "2022-12-31",
-      "description": "Sample Description",
-      "category": "Sample Category",
-      "amount": 100.5,
-      "id": 56
     }
   ]
 }
