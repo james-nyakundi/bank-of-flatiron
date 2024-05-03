@@ -7,7 +7,7 @@ function AccountContainer() {
   const [transaction, setTransaction] = useState([])
   const [query, setQuery] = useState("")
   useEffect(() => {
-    fetch("https://bank-of-flatiron-ydn8.onrender.com?q=" + query)
+    fetch("http://localhost:8001/transactions?q=" + query)
       .then((resp) => resp.json())
       .then(transaction => setTransaction(transaction))
   }, [query])
