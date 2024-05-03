@@ -118,6 +118,34 @@
       "category": "income",
       "amount": "0.09",
       "id": 17
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 18
+    },
+    {
+      "date": "2022-12-31",
+      "description": "Sample Description",
+      "category": "Sample Category",
+      "amount": 100.5,
+      "id": 19
+    },
+    {
+      "date": "2022-12-31",
+      "description": "Sample Description",
+      "category": "Sample Category",
+      "amount": 100.5,
+      "id": 20
+    },
+    {
+      "date": "2024-05-10",
+      "description": "paypal",
+      "category": "families and friends",
+      "amount": "1111",
+      "id": 21
     }
   ]
 }
